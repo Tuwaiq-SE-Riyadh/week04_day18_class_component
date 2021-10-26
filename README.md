@@ -1,4 +1,4 @@
-# Create functional and class component Lab
+# Functional and class component Lab
 
 * create `FunctionalHelloWorld` 
     * it should be functional component
